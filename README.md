@@ -6,8 +6,8 @@
 A simple containerized application that monitors and reports Linux system resources in real-time.
 
 ## 👥 Team Members
-- Hamid Walid [@gimmeursocks] (https://www.github.com/gimmeursocks)
-- Hafez Adel [@hafez599] (https://www.github.com/hafez599)
+- Hamid Walid [@gimmeursocks](https://www.github.com/gimmeursocks)
+- Hafez Adel [@hafez599](https://www.github.com/hafez599)
 
 ## 🚀 Features
 - Real-time monitoring of:
